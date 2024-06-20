@@ -1,7 +1,7 @@
 #!/bin/bash
 
 INPUTS=(
-    "hello"
+    "helloo"
     "HELLO"
     "HeLlo HuMaN"
     "1Hello 2There"
